@@ -1,5 +1,4 @@
- README for Obituary Management Platform
-
+ README 
 Obituary Management Platform
 
 Overview
@@ -8,7 +7,7 @@ The Obituary Management Platform is a web application designed to facilitate the
 
  Features
 
-- Obituary Submission**: Users can submit obituaries through a user-friendly HTML form.
+- **Obituary Submission**: Users can submit obituaries through a user-friendly HTML form.
 - **Database Management**: Stores obituary data in a MySQL database.
 - **Data Retrieval and Display**: Retrieves and displays obituaries in a paginated and styled HTML table.
 - **SEO Optimization**: Dynamically generates meta tags, uses semantic HTML, and includes structured data for better search engine visibility.
@@ -92,4 +91,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-This README provides an overview of the project, setup instructions, usage details, and information about the SEO and social media features. Feel free to customize it further based on your specific requirements.
